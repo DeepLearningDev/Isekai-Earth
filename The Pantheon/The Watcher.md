@@ -1,5 +1,5 @@
 > Domains: 
-> Alignment: 
+> Alignment: True Neutral
 > Personality: 
 > Role: One of the several Gods
 

@@ -1,5 +1,5 @@
-> Domains: Chaotic Neutral
-> Alignment: 
+> Domains: 
+> Alignment: Chaotic Neutral
 > Personality: 
 > Role: One of the several Gods of this reality that resides in [[The Mortal Plane]]
 
