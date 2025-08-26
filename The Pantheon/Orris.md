@@ -1,6 +1,7 @@
 > Domains: Reincarnation
 > Alignment: Chaotic Good
 > Personality: Eccentric and light-hearted
+> Role: One of the several Gods of this reality
 
 ###### Appearance:
 Orris appears as a spry old man who is about 5'8", has long gray hair and beard and pale, weathered skin. He has piercing blue eyes, is fairly thin but it is hidden by his flowy robes.
