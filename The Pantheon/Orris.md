@@ -4,7 +4,6 @@
 
 ###### Appearance:
 Orris appears as a spry old man who is about 5'8", has long gray hair and beard and pale, weathered skin. He has piercing blue eyes, is fairly thin but it is hidden by his flowy robes.
-
 ###### Ties:
 [[Elaris]]: Close Friend
 [[Y'drah]]: Creator

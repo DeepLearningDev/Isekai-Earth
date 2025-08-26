@@ -3,7 +3,7 @@
 > Personality: Ditzy and overly affectionate
 
 ###### Appearance:
-Elaris appears as woman in her 30s who is about 5'10", has long pink hair, and pristine pale skin with a rosy glow to it. She has green eyes, 
+Elaris appears as woman in her 30s who is about 5'10", has long pink hair, and pristine pale skin with a rosy glow to it. She has green eyes, is a little thick with a motherly figure and has a hefty bosom.
 ###### Ties:
 [[Orris]]: Close friend
 [[Ayer]]: Rival (She doesn't know this is the case)
