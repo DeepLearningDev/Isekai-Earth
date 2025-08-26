@@ -4,7 +4,7 @@
 > Role: One of the several Gods of this reality
 
 ###### Appearance:
-Ayer appears as a woman in her mid 20s who is about 5'2", has short blonde hair, with olive toned skin. She has unknown colored eyes because she wears a white cloth that covers them.
+Ayer appears as a woman in her mid 20s who is about 5'2", has short blonde hair, with olive toned skin. She has unknown colored eyes because she wears a white cloth that covers them. She has a thin figure and wears 
 ###### Ties:
 [[Y'drah]]: Creator
 [[Elaris]]: Rival
