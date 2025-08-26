@@ -9,5 +9,5 @@ Ayer appears as a woman in her mid 20s who is about 5'2", has short blonde hair,
 [[Y'drah]]: Creator
 [[Elaris]]: Rival
 [[Orris]]: Fellow God who resides in [[The Heavens]]
-###### Role:
+###### Task:
 Orris is tasked with bringing over souls from other worlds who have died before their time so that they can have a second life in a fantasy world to help the mortal races stop the demon king.
