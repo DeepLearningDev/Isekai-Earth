@@ -5,6 +5,6 @@
 ###### Appearance:
 
 ###### Ties:
-
+[[Orris]]
 ###### Role:
-Elaris is known by a couple names by the people of 
+Elaris is known by a couple names by the people of the [[Mortal Plane]] 
