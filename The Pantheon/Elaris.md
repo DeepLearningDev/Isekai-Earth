@@ -5,6 +5,8 @@
 ###### Appearance:
 
 ###### Ties:
-[[Orris]]
+[[Orris]]: Close friend
+[[Ayer]]: Rival (She doesn't know this is the case)
+[[Y'drah]]: 
 ###### Role:
 Elaris is known by a couple names by the people of the [[Mortal Plane]] 
