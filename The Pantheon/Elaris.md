@@ -9,4 +9,4 @@ Elaris appears as
 [[Ayer]]: Rival (She doesn't know this is the case)
 [[Y'drah]]: Creator
 ###### Role:
-Elaris is known by a couple names by the people of the [[Mortal Plane]], such as Mother E
+Elaris is known by a couple names by the people of the [[Mortal Plane]], such as Mother Earth, or the Goddess of Fertility. She is worshiped in the countryside 
