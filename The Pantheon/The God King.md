@@ -10,4 +10,4 @@
 [[Elaris]]: 
 [[Orris]]: 
 ###### Task:
-Not much is known about The God Kings's task given to him by [[Y'drah]] before was slain. Today the mantle of Jester is passed onto any mortal that causes the most chaos among the gods. They then inhabit the divinity of the god Jester and feel influenced to cause conflicts, and schemes.
+Not much is known about The God King's task given to him by [[Y'drah]] before she was slain. He is said to be wandering aimlessly around [[The Mortal Plane]], constantly looking for someone strong to fight
