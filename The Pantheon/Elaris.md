@@ -4,7 +4,7 @@
 > Role: One of the several Gods of this reality
 
 ###### Appearance:
-Elaris appears as woman in her 30s who is about 5'10", has long pink hair, and pristine pale skin with a rosy glow to it. She has green eyes, is a little thick with a motherly figure and has a hefty bosom.
+Elaris appears as woman in her 30s who is about 5'10", has long pink hair, and pristine pale skin with a rosy glow to it. She has green eyes, is a little thick with a motherly figure and has a hefty bosom. She wears earthy tones such as browns and greens for her robes that is low cut on her chest, .
 ###### Ties:
 [[Y'drah]]: Creator
 [[Orris]]: Close friend
