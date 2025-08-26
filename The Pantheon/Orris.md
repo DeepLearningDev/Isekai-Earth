@@ -1,2 +1,2 @@
-### Domains
-Reincarnation
+### Domains: Reincarnation
+#### Alignment: Chaotic Good
