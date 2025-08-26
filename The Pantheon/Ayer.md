@@ -4,7 +4,7 @@
 > Role: One of the several Gods of this reality
 
 ###### Appearance:
-Orris appears as a spry old man who is about 5'8", has long gray hair and beard and pale, weathered skin. He has piercing blue eyes, is fairly thin but it is hidden by his flowy robes.
+Ayer appears as a woman in her mid 20s who is about 5'2", has short blonde hair, with olive toned skin. She has unknown colored eyes because she 
 ###### Ties:
 [[Y'drah]]: Creator
 [[Elaris]]: Rival
