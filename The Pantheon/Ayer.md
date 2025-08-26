@@ -1,6 +1,6 @@
 > Domains: Reincarnation
 > Alignment: Lawful Good
-> Personality: Eccentric and light-hearted
+> Personality: Fakes as naive and airy but is really pious and condescending
 > Role: One of the several Gods of this reality
 
 ###### Appearance:
