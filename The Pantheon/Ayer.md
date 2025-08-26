@@ -1,6 +1,6 @@
-> Domains: Healing 
+> Domains: Healing and Justice
 > Alignment: Lawful Good
-> Personality: Fakes as naive, and airy but is really pious, and condescending
+> Personality: Fakes as caring, and airy but is really pious, and condescending
 > Role: One of the several Gods of this reality that resides in [[The Heavens]]
 
 ###### Appearance:
@@ -10,4 +10,4 @@ Ayer appears as a woman in her mid 20s who is about 5'2", has short blonde hair,
 [[Elaris]]: Rival
 [[Orris]]: Fellow God
 ###### Task:
-O
+Ayer is known by the people of the [[Mortal Plane]] as 
