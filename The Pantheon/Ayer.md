@@ -10,4 +10,4 @@ Ayer appears as a woman in her mid 20s who is about 5'2", has short blonde hair,
 [[Elaris]]: Rival
 [[Orris]]: Fellow God
 ###### Task:
-Ayer is known by the people of the [[The Mortal Plane]] as The Holy Mother and is worshiped by them because she is the source of their healing magic and their connection to Divinity. She has churches all across the realm but the primary one is within [[Acadia]], the Capital of the mortal continent.
+Ayer is known by the people of the [[The Mortal Plane]] as The Holy Mother and is worshiped by them because she is the source of their healing magic and their connection to Divinity. She has churches all across the realm but the primary one is within [[Isekai Earth/The Mortal Continent/Acadia]], the Capital of the mortal continent.
