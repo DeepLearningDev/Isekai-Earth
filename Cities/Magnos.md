@@ -7,4 +7,14 @@ Magnos is the home of the Dwarven people and is a sprawling and breathtaking und
 
 #### Typical Quest Types
 
-#### 
+#### Dungeon
+> The Dungeon that this town was built around is known as the [[Black Rock Mine]] and has served as a source of ancient knowledge, and earthen resources for as far back as anyone can remember.
+
+##### Monster Types
+The Monsters who inhabit this dungeon are mostly [[Constructs]] by nature.
+#### Notable NPCs
+
+#### Inhabitants
+[[Dwarfs]]: 93%
+[[Humans]]: 5%
+Other: 2%
