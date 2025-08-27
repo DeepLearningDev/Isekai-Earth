@@ -1,0 +1,1 @@
+Somberg is a Frontier town that borders the edge of the [[Demon Continent]], and is constantly under siege by the forces of the [[Demon Army]]. 
