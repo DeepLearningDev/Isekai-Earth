@@ -15,13 +15,13 @@ Most quests you will find in the dwarven city are revolving around retrieving [[
 #### Dungeon
 > The Dungeon that this city is built around is known as the [[Black Rock Mine]] and has served as a source of ancient knowledge, and earthen resources for as far back as anyone can remember.
 
-Black Rock Mine, just like the other [[Dungeons]], has very little information about how it was formed or how deep it really goes. It is very cavernous, somewhat damp at levels 10 and below, and resembles a traditional mine but is suspected to extend down for miles into the earth. There is a plethora of different ores located in the mines with [[Copper]] being prominent on floors 1-10, [[Iron]] on floors 11-25, [[Mithril]] on floors 26-50, with little known what may lie deeper. Floor 50 is the deepest that any expedition has traversed due to a [Colossus](https://5e.tools/bestiary/colossus-xmm.html) being present that defends the passageway down.
+Black Rock Mine, just like the other [[Dungeons]], has very little information about how it was formed or how deep it really goes. It is very cavernous, somewhat damp at levels 10 and below, and resembles a traditional mine but is suspected to extend down for miles into the earth. There is a plethora of different ores located in the mines with Copper being prominent on floors 1-10, Iron on floors 11-25, Mithril on floors 26-50, with little known what may lie deeper. Floor 50 is the deepest that any expedition has traversed due to a [Colossus](https://5e.tools/bestiary/colossus-xmm.html) being present that defends the passageway down.
 
 ###### Explored areas
-Any explored areas up to Floor 50 have been lit up by [[Magitech]] Lanterns
+Any explored areas up to Floor 50 have been lit up by [[Magitech]] Lanterns. If you come across any areas that are not illuminated in the soft blue glow of the lanterns proceed with caution.
 ###### Monster Types
 The Monsters who inhabit this dungeon are mostly [[Constructs]] by nature.
-#### Notable NPCs
+#### Shops
 
 #### Inhabitants
 Dwarves: 93%
