@@ -11,7 +11,7 @@ There is one famous citizen named [[Arnos Volgrim]] who is a descendant of the f
 - Elves they view as rivals of sorts since they use magic mainly due to their deep affinity for it and since the dwarven can't use magic there is somewhat jealousy mixed in.
 - Tieflings they view as interesting, and that they could possibly provide new information since their kin are from the demon continent.
 #### Typical Quest Types
-Most quests you will find in the dwarven city are revolving around retrieving [[Ores]], or [[Artifacts]] from the [[Black Rock Mine]] dungeon for various citizens and companies.
+Most quests you will find in the dwarven city are revolving around retrieving [[Isekai-Earth/Crafting Mats/Ores]], or [[Artifacts]] from the [[Black Rock Mine]] dungeon for various citizens and companies.
 #### Dungeon
 > The Dungeon that this city is built around is known as the [[Black Rock Mine]] and has served as a source of ancient knowledge, and earthen resources for as far back as anyone can remember.
 
