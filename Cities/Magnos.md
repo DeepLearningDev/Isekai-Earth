@@ -20,7 +20,7 @@ Black Rock Mine, just like the other [[Dungeons]], has very little information a
 ###### Explored areas
 Any explored areas up to Floor 50 have been lit up by [[Magitech]] Lanterns. If you come across any areas that are not illuminated in the soft blue glow of the lanterns proceed with caution.
 ###### Monster Types
-The Monsters who inhabit this dungeon are mostly [[Constructs]] by nature.
+The Monsters who inhabit this dungeon are mostly [[Isekai-Earth/Monsters/Monster Types/Constructs]] by nature.
 #### Shops
 
 #### Inhabitants
