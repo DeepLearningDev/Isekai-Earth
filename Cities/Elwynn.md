@@ -2,10 +2,10 @@
 #### About
 Elwynn is home to the Elven people of this world and is scattered across the treetops surrounding the [[World Tree]]. There are a numerous amount of magical beasts on the dense, lush forest floor. Elwynn is the epicenter of most magical study and the home of [[Lynn Silverleaf]], a long lived elf who is currently working on a more advanced summoning magic. Here you will also find several notable locations such as [[Longwood Conservatorium]] which is a safe-haven for magical beast on the verge of extinction, the [[Great Tree Archives]] which contains the most complete knowledge of mortal history so far, and the [[Green Archanium]] which is a collection of mages who are working on discovering and perfecting all magic.
 #### Famous citizens
-There are a few famous people such as [[Lynn Silverleaf]] a genius in summoning magic, who is the daughter of [[Sylvar Silverleaf]], the head conservationist at [[Longwood Conservatorium]]. 
+There are a few famous people such as [[Lynn Silverleaf]] a genius in summoning magic, who is the daughter of [[Sylvar Silverleaf]], the head conservationist at [[Longwood Conservatorium]]. Along with [[Archmagus, Pyria Trisbella]] who is the most powerful mage that has been placed in charge of the [[Green Archanium]].
 #### World Views
 - The Elven people view people who use magitech as tolerant or advocates for magic bastardization
-- 
+- Humans they view as 
 #### Typical Quest Types
 Most quests you will find in the dwarven city are revolving around retrieving [[Plant Samples]], or capturing [[Magical Beasts]] from the [[Deeproot Depths]] dungeon for various citizens and companies.
 #### Dungeon
