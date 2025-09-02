@@ -1,4 +1,4 @@
-> Elwynn is the Elven city nestled at the foot of the [[World Tree]]. Elwynn is also known as the city of 
+> Elwynn is the Elven city nestled at the foot of the [[World Tree]]. Elwynn is also known as the city of Magic
 #### About
 
 #### Famous citizens
