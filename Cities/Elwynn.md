@@ -5,13 +5,15 @@ Elwynn is home to the Elven people of this world and is scattered across the tre
 There are a few famous people such as [[Lynn Silverleaf]] a genius in summoning magic, who is the daughter of [[Sylvar Silverleaf]], the head conservationist at [[Longwood Conservatorium]]. Along with [[Archmagus, Pyria Trisbella]] who is the most powerful mage that has been placed in charge of the [[Green Archanium]].
 #### World Views
 - The Elven people view people who use magitech as tolerant or advocates for magic bastardization
-- Humans they view as 
+- Humans they view as primitives especially the ones that use blades
+- Dwarves they view with disdain because of their invention of [[Magitech]]
+- Magical or beast races they view with favor due to their close ties to nature and the arcane
 #### Typical Quest Types
 Most quests you will find in the dwarven city are revolving around retrieving [[Plant Samples]], or capturing [[Magical Beasts]] from the [[Deeproot Depths]] dungeon for various citizens and companies.
 #### Dungeon
 > The Dungeon that this city is built around is known as the [[Deeproot Depths]] and has served as a nesting ground for [[Magical Beasts]] and peculiar flora.
 
-Deeproot Depths, just like the other [[Dungeons]], has very little information about how it was formed or how deep it really goes. 
+Deeproot Depths, just like the other [[Dungeons]], has very little information about how it was formed or how deep it really goes. It is winding and the walls seem to be made of a very thick wood and is assumed to be the roots of the [[World Tree]].
 
 ###### Explored areas
 Any explored areas up to Floor 65 have been lit up by motes of magical light. If you come across any areas that are not lit up by the warm yellow glow of the motes of light proceed with caution.
